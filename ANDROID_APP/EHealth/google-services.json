@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135474644715",
+    "project_id": "ehealth-2d96b",
+    "storage_bucket": "ehealth-2d96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135474644715:android:78476ed89a370cd1e460ae",
+        "android_client_info": {
+          "package_name": "com.example.ehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135474644715-o5uns1lj0ropjsoukdkf6ujfg8kq23si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07e5MnHAQ16kwaEz9afg3GiyrsQzQDVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135474644715-o5uns1lj0ropjsoukdkf6ujfg8kq23si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

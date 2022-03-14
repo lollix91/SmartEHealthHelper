@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statiComuni">
+        <item>Benissimo</item>
+        <item>Bene</item>
+        <item>Neutro</item>
+        <item>Male</item>
+        <item>Malissimo</item>
+    </string-array></resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EHealth</string>
+    <string name="title_activity_scelta">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Acquisisci</string>
+    <string name="title_notifications">Altri Parametri</string>
+    <string name="altezzaTotale">170</string>
+    <string name="pesoUtente">70</string>
+    <string name="etaUtente">80</string>
+    <string name="msg_token_fmt">ekvTGx8sTemzhAmdAtpYgk:APA91bH48P0xrxK5JMOH-6y2T2Nlz2B1d1Y9F5TPwLsc9cjKlUXvyjWhiWz1fQ-uPDn37GepbhHk34W0K9qqqviCj6w1GyGNwbRKrVHdKZMN-HABDPNTerqWqX5w7IFTah9RxodFK1Uf</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
