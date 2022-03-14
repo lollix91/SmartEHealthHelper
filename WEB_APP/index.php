@@ -1,6 +1,6 @@
 <?php
 
-$mysqli = new mysqli("sql.lorenzodelauretis.it","lorenzod23806","lore29322","lorenzod23806");
+$mysqli = new mysqli("sql.lorenzodelauretis.it","lorenzod23806","","lorenzod23806");
 
 if ($mysqli->connect_errno) {
     printf("Connect failed: %s\n", $mysqli->connect_error);
